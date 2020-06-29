@@ -8,7 +8,7 @@ namespace BattleshipLiteLibrary.Models
 {
     public enum GridSpotStatus
     {
-        Emtpy,
+        Empty,
         Ship,
         Miss,
         Hit,
